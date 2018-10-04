@@ -1,0 +1,11 @@
+{
+  "name": "rkarkut/magento2-module",
+  "description": "Magento 2 metapackage module",
+  "license": "Apache-2.0",
+  "version": "0.0.1",
+  "type": "metapackage",
+  "require": {
+    "getresponse/magento2-module": "^20.3.0",
+    "getresponse/share-code-plugin": "^3.0.3"
+  }
+}
