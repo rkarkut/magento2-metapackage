@@ -1,5 +1,5 @@
 {
-  "name": "getresponse/magento2-metapackage",
+  "name": "getresponse/magento2-module",
   "description": "GetResponse Integration for Magento2",
   "license": "OSL-3.0",
   "version": "1.0.0",
